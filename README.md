@@ -14,6 +14,9 @@ Instructor: Simo Edwin - [Dev Ed](https://github.com/developedbyed/).
 - Flex box
 - Menu burger/ plants animations
 
+## Responsive:
+![Elena Joy | Responsive](https://github.com/lucianakyoko/Elena-Joy/blob/main/.github/Elena-Joy.png)
+
 ## Preview mobile version:
 ![Elena Joy | Photography](https://github.com/lucianakyoko/Elena-Joy/blob/main/.github/Elena%20Joy.png)
 
